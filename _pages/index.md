@@ -4,24 +4,23 @@ title: Home
 permalink: /
 ---
 
-# Intermediate Latin 1<br>Fall 2021
+# Women and Men in Greek Literature and Society<br>Spring 2022
 
 ***
 
 ## NEXT DEADLINES
 
-### Wednesday, September 22  
-* Prepare [Shelton 7.1-2 (Pliny 3.14)](https://drive.google.com/file/d/18APXMFbsT9oFaFry0XRT0x5uX-5x7BrW/view?usp=sharing)
+TBD
 
 ***
 
 ## Course Information
 
-**Meeting Time:** MWF 12-12:50pm  
-**Meeting Place:** Stein 118C  
+**Meeting Time:** TTh 9:30 to 10:45am  
+**Meeting Place:** TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
-**Student Hours:** M 10:30-11:30am, T 2-3pm, or by appointment  
+**Student Hours:** TBD  
 **E-mail:** dlibatiq [at] holycross.edu  
 **Website:** [Click here.](https://libatique.info)
 
@@ -29,13 +28,13 @@ permalink: /
 
 ## Course Objectives
 
-* build grammatical and syntactic knowledge of Latin
-* expand reading comprehension beyond surface-level translation
-* develop ability to read Latin at sight with the help of lexica and commentaries
-* refine Latin pronunciation and speaking skills
+* to understand the progression of ancient Greek culture and literature from the 8th century BCE to the 2nd century CE
+* to identify major literary works, authors, dates, places, and events from ancient Greece
+* to develop close reading and analytical skills with both primary ancient material and secondary modern material
+* to engage creatively with ancient and modern cultural topics like gender, politics, and religion
 
 ***
 
 ## Course Description
 
-This course builds on the grammatical and syntactic knowledge base that we began in the introductory sequence (LATN 101 and 102) through reading unaltered Latin texts and applying concepts and skills to the actual words of the ancients. Specific language skills that we will develop include recognizing syntactic patterns and larger narrative structures in connected passages of prose; reading Latin at sight with confidence; reading (and rereading) with increased speed while remaining attentive to very close analysis of assigned passages; and understanding how to use lexica, commentaries, and other scholarly instruments in reading an edition of an ancient text. In Fall 2021, we will read selections from the Letters of Pliny the Younger, supplemented, if time permits, with letters by Cicero, Seneca, and non-elite Romans. These texts will not only allow us to complete our primary objectives of building your language skills but also to engage with important aspects of Roman socio-cultural history, including issues of politics and marriage, the eruption of Mt. Vesuvius, and the rise of Christianity.
+This course is an introduction to the literature of ancient Greece, from roughly the 8th century B.C.E. to the 2nd century C.E., a span of almost 1,000 years. We will read works of various genres of Greek literature in translation, with authors and works including Homer, the lyric poets, Herodotus, Greek tragedians, Aristophanes, the Attic orators, Hellenistic poetry, and the Greek novel. The goal is to gain a basic understanding of the progression of Greek literature and how each work or genre relates to social and political conditions in Greece at the time, especially with regard to gender and interpersonal relationships.

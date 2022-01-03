@@ -15,6 +15,7 @@ order: 2
     <a href="#student-hours">Student Hours</a>
     <a href="#gender-expression-and-identity">Gender Expression and Identity</a>
     <a href="#diversity-inclusion-and-respect">Diversity, Inclusion, and Respect</a>
+    <a href="#content-warnings">Content Warnings</a>
     <a href="#accessibility">Accessibility</a>
     <a href="#external-resources">External Resources</a>
     <a href="#mandated-reporter">Mandated Reporter</a>
@@ -25,13 +26,13 @@ order: 2
 
 ## The Pandemic
 
-The coronavirus pandemic has upended our normal way of life for the past year and a half, and although we are hopefully at the tail end of it, the disruptions that we've experienced since March 2020 will have lasting effects in various ways. As of summer 2021, we are slated to be on campus and in person in the fall (yay!), but if the pandemic surges again, we have to be ready to shift online and conduct our class via Zoom and other online media.
+The coronavirus pandemic has upended our normal way of life for the past year and a half, and although we are hopefully at the tail end of it, the disruptions that we’ve experienced since March 2020 will have lasting effects in various ways. As of January 2022, we are slated to be on campus and in person in Spring 2022 (yay!), but if the pandemic continues to surge, we have to be ready to shift online and conduct our class via Zoom and other online media.
 
 Please rest assured that your health and safety and that of your family and friends will always come first, and I make it my mission to create a classroom environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. If you have to miss class to take care of yourself or others, either physically or mentally, then do so and just let me know that you'll be missing class via email. If you need extensions on assignments, ask for them. If you would like extra help outside of class time, don't hesitate to let me know.
 
 Needless to say, these are unprecedented times which call for extraordinary measures. Please don’t ever hesitate to email me, visit with me during student hours or non-preordained times via appointment, or leave a group or private message in the GroupMe with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Here’s [a recent favorite of mine](https://twitter.com/DrMRFrancis/status/1130553886585044993):
 
-![](https://libatique.info/LATN213-F21/public/IMG_0877.jpg)
+![](https://libatique.info/CLAS101-S22/public/IMG_0877.jpg)
 
 [Return to top.](#top)
 
@@ -63,11 +64,21 @@ I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. Your first a
 
 ## Diversity, Inclusion, and Respect
 
-Studying Latin at Holy Cross is one way to challenge a centuries-long tradition that reserved the study of the ancient world for a privileged elite. The challenge goes beyond simply welcoming students however they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. As we work to see the multicultural world of the ancient Mediterranean through the original thoughts and language of Latin speakers and writers, we reflect on and actively explore how this can help us recognize and respond to structures of power and privilege in our own lives.
+Studying the ancient Greco-Roman world at Holy Cross is one way to challenge a centuries-long tradition that reserved the study of the ancient world for a privileged elite. As we learn about the multicultural world of the ancient Mediterranean through Greek literature and iconography, we should reflect on and actively explore how this study can help us recognize and respond to structures of power and privilege in our own lives. This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying the Greco-Roman world helps us see through erroneous assertions about the “whiteness” or "heteronormativity" of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic, social, or political group.
 
-This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying Latin helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
+Our class may require us to have difficult conversations with conflicting viewpoints. Our classroom is designated as a space where respectful dialogue must be the norm: ad hominem attacks, unsubstantiated generalizations, and discriminatory remarks of any kind will not be tolerated. All students are welcome in this class and at Holy Cross, no matter how they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. If there is disagreement, we will work with the ideas being discussed; no personal attacks will be allowed.
+
+We will also engage in discussions about the practices and norms of cultures that in many respects differ from our own, practices that may perhaps strike modern sensibilities as objectionable or crude. One of the major themes with which we will engage this semester is how our understanding of what is acceptable or unacceptable is largely constructed by cultural context. We must engage with the evidence of ancient texts and material culture in terms of the cultures in which they were created, without making value judgments according to our modern sensibilities; or, at the very least, we must interrogate why and how we are making those value judgments.
 
 [Return to top.](#top)
+
+***
+
+## Content Warnings
+
+At times this semester we will be discussing literature, material culture, and topics that may be disturbing, even traumatizing, to some students. Some topics that will come up often include violence, war, rape, sexual violence, and modern notions of pedophilia. If you suspect that specific material is likely to be emotionally challenging for you, I’d be happy to discuss any concerns that you may have before the subject comes up in class either via email or in person (in student hours or through an appointment). I will do my best to place content warnings on readings in the course schedule whose titles may not necessarily indicate the presence of traumatizing material.
+
+If you ever wish to discuss your personal reactions to course material with the class or with me individually afterward, I welcome such discussions as an appropriate part of our course. If you ever feel the need to leave during a class discussion, you may always do so without academic penalty, but you will be responsible for any missed material. If you leave the room for a significant amount of time, please make arrangements to get notes from another student or to see me individually to discuss the situation.
 
 ***
 
@@ -85,7 +96,7 @@ If you are already registered with Accessibility Services, please be sure to get
 
 In addition to my email and student hours, there are resources outside myself and the Classics department, like [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
 
-By the way, to test whether you’re reading the syllabus all the way through, please send me an email indicating your favorite noun case by 12:00pm on Friday, September 3, 2021, with the subject line “I will not decline extra credit!” If you do so, you will receive five (5) extra credit points in your raw quiz point total for the semester.
+By the way, to test whether you’re reading the syllabus all the way through, please send me an email with a picture of your favorite ancient Greek monument by 9:30am on Tuesday, February 1, 2022, with the subject line “It’s all GREEK to me.” If you do so, you will receive five (5) extra credit points on your quiz total (see [Grading](grading) for the course grading structure).
 
 [Return to top.](#top)
 

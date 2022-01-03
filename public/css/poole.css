@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #d28445;
+  color: #ac4142;
   text-rendering: optimizeLegibility;
 }
 
@@ -354,7 +354,7 @@ table.schedule {
 .page-title,
 .post-title,
 .post-title a {
-  color: #d28445;
+  color: #ac4142;
 }
 
 .page-title,

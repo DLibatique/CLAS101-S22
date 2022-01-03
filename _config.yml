@@ -7,12 +7,12 @@ include:          ['_pages', '_subpages']
 permalink:        pretty
 
 # Setup
-title:            Intermediate Latin 1
-tagline:          'LATN 213'
-course_number:    'LATN 213'
+title:            Women and Men in Greek Literature and Society
+tagline:          'CLAS 101'
+course_number:    'CLAS 101'
 section_number:   '01'
-semester:         'Fall 2021'
-url:              https://libatique.info/LATN213-F21
+semester:         'Spring 2022'
+url:              https://libatique.info/CLAS101-S22
 baseurl:
 
 author:
@@ -23,4 +23,4 @@ author:
 version:          2.1.0
 
 github:
-  repo:           https://github.com/dlibatique/LATN213-F21
+  repo:           https://github.com/dlibatique/CLAS101-S22
