@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Women and Men in Greek Literature and Society<br>Spring 2022
+# Women and Men in Greek Lit. and Society<br>Spring 2022
 
 ***
 
